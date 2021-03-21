@@ -1,0 +1,31 @@
+{
+  "name": "hustler-dashboard",
+  "version": "0.0.0",
+  "authors": [
+    "Steve Vitali <14stevevitali@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.4",
+    "jquery-ui": "~1.11.4",
+    "react": "~0.13.3",
+    "underscore": "~1.8.3",
+    "backbone": "~1.2.1",
+    "Chart.js": "~1.0.2",
+    "spin.js": "~2.3.0",
+    "bootstrap-switch": "~3.3.2",
+    "bootstrapValidator": "~0.4.5",
+    "handlebars": "~3.0.3",
+    "leaflet-gps": "~1.0.2",
+    "react-bootstrap": "~0.23.4",
+    "pdfjs-bower": "~1.0.233"
+  }
+}
